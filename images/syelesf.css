@@ -1,0 +1,134 @@
+
+body {
+  background-color: #fff2df;
+}
+h3{
+  position: absolute;
+  left: 5%;
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+}
+p{
+  position: absolute;
+  top:20%;
+  left: 5%;
+  font-style: normal;
+  font-family: "Arial", sans-serif;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: blue;
+}
+
+.all{
+  background-color: #f0ffff;
+  text-align: center;
+  font-size: 15px;
+  border-top: 2px solid #DFE3EE;
+  box-shadow:4px 4px 4px 4px #DFE3EE;
+  position: absolute;
+  left: 10%;
+  top: 3%;
+  width:80%;
+  height: 95%;
+  margin: auto;
+}
+.Reliable {
+  font-weight: normal;
+  font-size: 24px;
+  font-family: 'Arial', sans-serif;
+  width: 50%;
+  position: absolute;
+  top: 6%;
+  left: 25%;
+}
+.powered{
+  position: absolute;
+  font-weight: bold;
+  font-family: 'Arial', sans-serif;
+  width: 50%;
+  top:10%;
+  left: 25%;
+
+
+}
+.art{
+  width: 50%;
+  margin: auto;
+  left: 25%;
+  top: 18%;
+}
+
+.supervisor{
+  text-align: left;
+  width: 20%;
+  height:25%;
+  margin: auto;
+  position: absolute;
+  left:19%;
+  bottom: 35%;
+  background-color: 	white;
+  border-top: 6px solid yellow;
+  box-shadow: 10px 5px 5px #DFE3EE;
+}
+.img-su{
+  position: absolute;
+  left: 60%;
+  bottom: 4%;
+  width: 25%;
+  height: 25%;
+}
+.teambuilder{
+  text-align: left;
+  width: 20%;
+  height:25%;
+  margin: auto;
+  position: absolute;
+  left:40%;
+  top:27%;
+  background-color: 	white;
+  border-top: 6px solid red;
+  box-shadow: 10px 5px 5px #DFE3EE;
+}
+.karma{
+  text-align: left;
+  width: 20%;
+  height:25%;
+  margin: auto;
+  position: absolute;
+  right: 19%;
+  bottom: 35%;
+  background-color: 	white;
+  border-top: 6px solid orange;
+  box-shadow: 10px 5px 5px #DFE3EE;
+}
+.calculator{
+  text-align: left;
+  width: 20%;
+  height:25%;
+  margin: auto;
+  background-color: 	white;
+  position: absolute;
+  left:40%;
+  bottom: 18%;
+  border-top: 6px solid Blue;
+  box-shadow: 10px 5px 5px #DFE3EE;
+}
+
+.bottom-layer{
+  width: 25%;
+  height:15%;
+  text-align: center;
+  position: absolute;
+  bottom: 4%;
+  left: 37%;
+  display: inline;
+
+}
+.attribution{
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+}
